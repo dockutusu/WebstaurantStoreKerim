@@ -52,7 +52,6 @@ public class TableWordTest {
 				if (item.getText().contains(wordToFindInItemTitles)) {
 					NumberOfTitlesWithTableWord++;
 					numberOfItemsInSearchResult++;
-					continue;
 				} else {
 					NumberOfTitlesWithoutTableWord++;
 					numberOfItemsInSearchResult++;
