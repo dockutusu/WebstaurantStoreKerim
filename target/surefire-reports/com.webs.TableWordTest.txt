@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.webs.TableWordTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in com.webs.TableWordTest
+com.webs.TableWordTest.initializationError  Time elapsed: 0.006 s  <<< ERROR!
+org.junit.runners.model.InvalidTestClassError: 
+Invalid test class 'com.webs.TableWordTest':
+  1. Method man() should not be static
+
